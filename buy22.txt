@@ -1,0 +1,90 @@
+Try Ruby!
+An interactive tutorial that lets you try out Ruby right in your browser. This 15-minute tutorial is aimed at beginners who want to get a feeling of the language.
+Ruby Koans
+The Koans walk you along the path to enlightenment in order to learn Ruby. The goal is to learn the Ruby language, syntax, structure, and some common functions and libraries. We also teach you culture.
+RubyMonk
+Discover Ruby idioms, learn lessons and solve problems, all in your browser!
+Hackety Hack
+The little coder’s starter kit. A fun and easy way to learn about programming (through Ruby) using the Shoes GUI Toolkit.
+Why’s (Poignant) Guide to Ruby
+An unconventional but interesting book that will teach you Ruby through stories, wit, and comics. Originally created by why the lucky stiff, this guide remains a classic for Ruby learners.
+Ruby in Twenty Minutes
+A nice tutorial covering the basics of Ruby. From start to finish it shouldn’t take you more than twenty minutes.
+Ruby from Other Languages
+Coming to Ruby from another language? Whether it’s C, C++, Java, Perl, PHP, or Python, this article has you covered!
+Learning Ruby
+A thorough collection of Ruby study notes for those who are new to the language and in search of a solid introduction to Ruby’s concepts and constructs.
+Ruby Essentials
+Ruby Essentials is a free on-line book designed to provide a concise and easy to follow guide to learning Ruby.
+Learn to Program
+A wonderful little tutorial by Chris Pine for programming newbies. If you don’t know how to program, start here.
+Learn Ruby the Hard Way
+A very good set of exercises with explanations that guide you from the absolute basics of Ruby all the way to OOP and web development.
+Manuals
+Programming Ruby
+The seminal work on Ruby in English, this first edition of the Pragmatic Programmers’ book is available for free online.
+Ruby User’s Guide
+Translated from the original Japanese version written by Yukihiro Matsumoto (the creator of Ruby), this version, by Goto Kentaro and Mark Slagell, is a nice overview of many aspects of the Ruby language.
+The Ruby Programming Wikibook
+A free online manual with beginner and intermediate content plus a thorough language reference.
+Reference Documentation
+Ruby Core Reference
+Pulled straight from the source code using RDoc, this reference work documents all of the core classes and modules (like String, Array, Symbol, etc…).
+Ruby Standard Library Reference
+Also pulled from the source code using RDoc, this reference work documents the standard library.
+Ruby C API Reference
+The official introduction to Ruby’s C API. Great if you want to write C extensions or contribute to Ruby’s development.
+RubyDoc.info
+The one-stop web site for reference documentation about Ruby gems and GitHub-hosted Ruby projects.
+Ruby & Rails Searchable API Docs
+Rails and Ruby documentation with smart searching.
+APIdock
+Ruby, Rails and RSpec documentation with users’ notes.
+Omniref: Annotated Ruby, Rails, and Gem Documentation
+Documentation for every version of Ruby, and every version of every RubyGem. A comprehensive reference manual for Ruby, with code search, source annotations, and Q&A features.
+Editors and IDEs
+For coding in Ruby you can use the default editor of your operating system. By the way, to be more effective in coding, it is worth to choose a source code editor with basic Ruby support (e.g. syntax-highlighting, file browsing) or an integrated development environment with advanced features (e.g. code completion, refactoring, testing support).
+
+Here is a list of popular tools used by Rubyists:
+
+Linux and cross-platform tools:
+Aptana Studio
+Emacs with Ruby mode and Rsense
+Geany
+gedit
+Vim with vim-ruby plugin and Rsense
+RubyMine
+SciTe
+NetBeans
+Sublime Text
+Atom
+On Windows:
+Notepad++
+E-TextEditor
+Ruby In Steel
+Atom
+On Mac OS X:
+TextMate
+TextWrangler
+Dash (documentation browser)
+Atom
+Further Reading
+Ruby-doc.org maintains a comprehensive list of English documentation sources. There are also plenty of books about Ruby. If you have questions about Ruby the mailing list is a great place to start.
+
+Get Started, it's easy!
+Try Ruby! (in your browser)
+Ruby in Twenty Minutes
+Ruby from Other Languages
+Explore a new world…
+Documentation
+Academic Research
+Libraries
+Success Stories
+Participate in a friendly and growing community.
+Mailing Lists: Talk about Ruby with programmers from all around the world.
+User Groups: Get in contact with Rubyists in your area.
+Weblogs: Read about what’s happening right now in the Ruby community.
+Ruby Core: Help polish the rough edges of the latest Ruby.
+Issue Tracking: Report or help solve issues in Ruby.
+Syndicate
+Recen
